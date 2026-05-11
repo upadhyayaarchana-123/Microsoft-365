@@ -10,7 +10,7 @@ keywords:
 tags: 
 ---
 
-To configure settings and view information inside the CrashPlan for Microsoft 365 console, administrators must sign in to the CrashPlan portal with valid credentials. The CrashPlan team will provide new administrators with credentials. If i make a change
+To configure settings and view information inside the CrashPlan for Microsoft 365 console, administrators must sign in to the CrashPlan portal with valid credentials. The CrashPlan team will provide new administrators with credentials.
 
 1. Navigate to the link provided by the CrashPlan team (or your administrator if you are an end user)
 _This is usually in the format of "https://[yourcompany].parablu.com/portal/login"_
