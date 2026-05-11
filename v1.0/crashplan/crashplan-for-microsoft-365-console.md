@@ -10,7 +10,7 @@ keywords:
 tags: 
 ---
 
-This document provides you with the detailed steps to configure M365 into your CrashPlan Platform.
+This document provides you with the detailed steps to configure M365 into your CrashPlan Platform. And start typing, for example.
 
 [auto$](/crashplan/signing-in-to-the-crashplan-platform)
 
