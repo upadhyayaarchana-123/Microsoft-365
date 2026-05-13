@@ -15,3 +15,5 @@ tags:
 After signing in, you'll arrive at the Home Dashboard by default. Each icon in the navigation sidebar on the left side of the screen corresponds with a different area of the product.
 
 Table
+|Symbol|Description|
+|Settings| Provides the details of the UI|
