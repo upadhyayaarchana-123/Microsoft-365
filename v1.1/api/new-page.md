@@ -2,10 +2,9 @@
 type: page
 title: New Page
 listed: true
-slug: new-page
 description: 
 index_title: New Page
-hidden: 
+hidden: false
 keywords: 
 tags: 
 ---

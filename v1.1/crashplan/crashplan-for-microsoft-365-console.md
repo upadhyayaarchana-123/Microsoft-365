@@ -2,19 +2,17 @@
 type: page
 title: CrashPlan for Microsoft 365 console
 listed: true
-slug: crashplan-for-microsoft-365-console
 description: 
 index_title: CrashPlan for Microsoft 365 console
-hidden: 
+hidden: false
 keywords: 
 tags: 
 ---
 
 This document provides you with the detailed steps to configure M365 into your CrashPlan Platform. And start typing, for example. As you noticed.
 
-{% synced id="temp" %}
-{% /synced %}
+{% synced id="temp" /%}
 
-[auto$](/crashplan/signing-in-to-the-crashplan-platform)
+[Signing in to the CrashPlan Platform](crashplan-for-microsoft-365-console/signing-in-to-the-crashplan-platform.md)
 
-[auto$](/crashplan/navigating-to-microsoft-365-console)
+[Navigating to Microsoft 365 console](crashplan-for-microsoft-365-console/navigating-to-microsoft-365-console.md)
