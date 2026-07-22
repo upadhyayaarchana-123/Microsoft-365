@@ -1,0 +1,5 @@
+items:
+  - category: 'Endpoints User Guide'
+    items:
+      - getting-started-with-agents
+  - category: 'Troubleshooting Agents'

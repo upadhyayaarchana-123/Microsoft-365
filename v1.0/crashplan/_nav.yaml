@@ -1,0 +1,12 @@
+items:
+  - category: 'M365 User Guide'
+    items:
+      - page: crashplan-for-microsoft-365-console
+        items:
+          - crashplan-for-microsoft-365-console/signing-in-to-the-crashplan-platform
+          - crashplan-for-microsoft-365-console/navigating-to-microsoft-365-console
+  - category: 'M365 Release Notes'
+    items:
+      - page: release-2-4
+        items:
+          - release-2-4/release-2-4-1
