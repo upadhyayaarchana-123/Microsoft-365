@@ -1,8 +1,8 @@
 name: v1.1
 published: true
 documentations:
-    - crashplan
-    - endpoints
-    - api
+  - crashplan
+  - endpoints
+  - api
 references:
-    - swagger-petstore---openapi-3.0
+  - swagger-petstore---openapi-3.0
